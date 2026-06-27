@@ -1,4 +1,4 @@
-# 🏠 Smart Home Automation System using Cisco Packet Tracer IoT 
+# 🏠 Smart Home Automation System using Cisco Packet Tracer IoT
 
 ## 📌 Project Description
 
@@ -114,11 +114,9 @@ Through this project, we learned:
 
 ---
 
-## 👨‍💻 Project Type
+## 📸 Project Screenshots
 
-**IoT Mini Project**
-**Simulation Platform: Cisco Packet Tracer**
-
+![Project Topology](IoT_Application.png)
 ---
 
 ## 🏁 Conclusion
